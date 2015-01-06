@@ -1,0 +1,131 @@
+
+protagonist.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+newalk
+  rotate: false
+  xy: 1, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+newalk
+  rotate: false
+  xy: 53, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+nwwalk
+  rotate: false
+  xy: 105, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+nwwalk
+  rotate: false
+  xy: 157, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+sewalk
+  rotate: false
+  xy: 209, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+sewalk
+  rotate: false
+  xy: 261, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+sidewalkleft
+  rotate: false
+  xy: 313, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+sidewalkleft
+  rotate: false
+  xy: 365, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+sidewalkright
+  rotate: false
+  xy: 417, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+sidewalkright
+  rotate: false
+  xy: 469, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+swwalk
+  rotate: false
+  xy: 521, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+swwalk
+  rotate: false
+  xy: 573, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+walkdown
+  rotate: false
+  xy: 625, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+walkdown
+  rotate: false
+  xy: 677, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+walkdown
+  rotate: false
+  xy: 729, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 3
+walkup
+  rotate: false
+  xy: 781, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 1
+walkup
+  rotate: false
+  xy: 833, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 2
+walkup
+  rotate: false
+  xy: 885, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: 3

@@ -1,0 +1,26 @@
+
+demostuff.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+growbackground
+  rotate: false
+  xy: 1, 103
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+growglow
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+growmainchar
+  rotate: false
+  xy: 403, 403
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
